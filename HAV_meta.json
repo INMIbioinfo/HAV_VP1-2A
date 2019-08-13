@@ -1,0 +1,472 @@
+{
+  "annotations": {
+    "nuc": {
+      "end": 7452,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {
+    "Aguirre et al 2011": {
+      "n": 1
+    },
+    "Barameechai et al        ": {
+      "n": 1
+    },
+    "Beneduce et al  1995      ": {
+      "n": 1
+    },
+    "Bitchenco et al.": {
+      "n": 1
+    },
+    "Bondarenko et al        ": {
+      "n": 1
+    },
+    "Boxman et al 2012       ": {
+      "n": 2
+    },
+    "Bruni et al 2016  ": {
+      "n": 19
+    },
+    "Chizhikov,  V.       ": {
+      "n": 1
+    },
+    "Cohen et al 1987": {
+      "n": 1
+    },
+    "Dohmen et al., 2011      ": {
+      "n": 2
+    },
+    "Endo et a., 2007": {
+      "n": 5
+    },
+    "Fujiwara et al., 2001     ": {
+      "n": 1
+    },
+    "Fujiwara et al., 2001      ": {
+      "n": 5
+    },
+    "Gall et al. Unp": {
+      "n": 1
+    },
+    "Garcia-Aguirre et al        ": {
+      "n": 2
+    },
+    "Garcia-Aguirre et al  2008      ": {
+      "n": 1
+    },
+    "Graff et al 1994": {
+      "n": 1
+    },
+    "Hamza et al., 2017": {
+      "n": 1
+    },
+    "Hu et al        ": {
+      "n": 2
+    },
+    "Ishii unp.": {
+      "n": 1
+    },
+    "Jiang et al., unp": {
+      "n": 1
+    },
+    "Joshi et al., 2008": {
+      "n": 1
+    },
+    "Joshi et al., 2010": {
+      "n": 2
+    },
+    "Kulkarni et al., 2009": {
+      "n": 6
+    },
+    "Lanini et al. 2016": {
+      "n": 20
+    },
+    "Lee et al., 2013": {
+      "n": 1
+    },
+    "Liu et al        ": {
+      "n": 1
+    },
+    "Lu et a., 2004": {
+      "n": 1
+    },
+    "Minosse et al. ": {
+      "n": 32
+    },
+    "Mishiro et al     ": {
+      "n": 1
+    },
+    "Miura et al 2017": {
+      "n": 1
+    },
+    "Mulyanto et al  2014  ": {
+      "n": 6
+    },
+    "Nejati et al., unp.": {
+      "n": 1
+    },
+    "Probert et al., unp": {
+      "n": 7
+    },
+    "Saito et al 2018  ": {
+      "n": 1
+    },
+    "Shimasaki et al., unp.": {
+      "n": 1
+    },
+    "Stene-Johansen et al., 2005": {
+      "n": 1
+    },
+    "Sugihara et al        ": {
+      "n": 1
+    },
+    "Takahashi et al  2011      ": {
+      "n": 1
+    },
+    "Tsatsralt-Od et al  2016      ": {
+      "n": 6
+    },
+    "Vaughan et al  2014    ": {
+      "n": 1
+    },
+    "Vaughan et al  2014      ": {
+      "n": 1
+    },
+    "Wang et al  ": {
+      "n": 1
+    },
+    "Watanabe et al  2014     ": {
+      "n": 1
+    },
+    "Yang et al.": {
+      "n": 1
+    },
+    "Yoneyama et al., 2007": {
+      "n": 1
+    },
+    "Zhou et al., unp.": {
+      "n": 1
+    }
+  },
+  "color_options": {
+    "authors": {
+      "key": "authors",
+      "legendTitle": "Authors",
+      "menuItem": "authors",
+      "type": "discrete"
+    },
+    "country": {
+      "color_map": [
+        [
+          "japan",
+          "#7e4bc1"
+        ],
+        [
+          "philippines",
+          "#c14b9c"
+        ],
+        [
+          "singapore",
+          "#4334BF"
+        ],
+        [
+          "indonesia",
+          "#4041C7"
+        ],
+        [
+          "papua",
+          "#3F50CC"
+        ],
+        [
+          "china",
+          "#730202"
+        ],
+        [
+          "thailand",
+          "#511EA8"
+        ],
+        [
+          "uruguay",
+          "#d0a73f"
+        ],
+        [
+          "argentina",
+          "#ce7c41"
+        ],
+        [
+          "russia",
+          "#4784C7"
+        ],
+        [
+          "algeria",
+          "#56A0AF"
+        ],
+        [
+          "usa",
+          "#DC2F24"
+        ],
+        [
+          "mexico",
+          "#D3B240"
+        ],
+        [
+          "italy",
+          "#09ff00"
+        ],
+        [
+          "mongolia",
+          "#026b69"
+        ],
+        [
+          "germany",
+          "#63AC99"
+        ],
+        [
+          "australia",
+          "#bbb86e"
+        ],
+        [
+          "south_korea",
+          "#34e08d"
+        ],
+        [
+          "south_africa",
+          "#e034cc"
+        ],
+        [
+          "norway",
+          "#f28d8d"
+        ],
+        [
+          "iran",
+          "#0e4523"
+        ],
+        [
+          "india",
+          "#bda635"
+        ],
+        [
+          "france",
+          "#3562bd"
+        ],
+        [
+          "egypt",
+          "#35bd79"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "country",
+      "menuItem": "country"
+    },
+    "genotype": {
+      "color_map": [
+        [
+          "IA",
+          "#7e4bc1"
+        ],
+        [
+          "IB",
+          "#09ff00"
+        ],
+        [
+          "IIA",
+          "#DC2F24"
+        ],
+        [
+          "IIIA",
+          "#d0a73f"
+        ],
+        [
+          "IIIB",
+          "#bda635"
+        ]
+      ],
+      "key": "genotype",
+      "legendTitle": "genotype",
+      "menuItem": "genotype"
+    },
+    "gt": {
+      "key": "genotype",
+      "legendTitle": "Genotype",
+      "menuItem": "genotype",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "region": {
+      "color_map": [
+        [
+          "oceania",
+          "#88BB6C"
+        ],
+        [
+          "africa",
+          "#CEB541"
+        ],
+        [
+          "europe",
+          "#E39B39"
+        ],
+        [
+          "south_america",
+          "#E56C2F"
+        ],
+        [
+          "north_america",
+          "#DC2F24"
+        ]
+      ],
+      "key": "region",
+      "legendTitle": "region",
+      "menuItem": "region"
+    }
+  },
+  "filters": [
+    "country",
+    "region",
+    "authors"
+  ],
+  "geo": {
+    "country": {
+      "algeria": {
+        "latitude": 28.0,
+        "longitude": 2.99
+      },
+      "argentina": {
+        "latitude": -34.6,
+        "longitude": -58.43
+      },
+      "australia": {
+        "latitude": -33.85,
+        "longitude": 151.21
+      },
+      "china": {
+        "latitude": 39.9,
+        "longitude": 161.39
+      },
+      "egypt": {
+        "latitude": 26.25,
+        "longitude": 29.26
+      },
+      "france": {
+        "latitude": 46.36,
+        "longitude": 1.53
+      },
+      "germany": {
+        "latitude": 51.08,
+        "longitude": 10.42
+      },
+      "india": {
+        "latitude": 22.35,
+        "longitude": 78.66
+      },
+      "indonesia": {
+        "latitude": -7.56,
+        "longitude": 110.82
+      },
+      "iran": {
+        "latitude": 36.7,
+        "longitude": 51.4
+      },
+      "italy": {
+        "latitude": 42.63,
+        "longitude": 12.67
+      },
+      "japan": {
+        "latitude": 35.68,
+        "longitude": 139.75
+      },
+      "mexico": {
+        "latitude": 19.43,
+        "longitude": -99.13
+      },
+      "mongolia": {
+        "latitude": 47.9,
+        "longitude": 106.88
+      },
+      "norway": {
+        "latitude": 59.91,
+        "longitude": 11.52
+      },
+      "papua": {
+        "latitude": -5.68,
+        "longitude": 144.24
+      },
+      "philippines": {
+        "latitude": 14.59,
+        "longitude": 120.97
+      },
+      "russia": {
+        "latitude": 55.75,
+        "longitude": 37.61
+      },
+      "singapore": {
+        "latitude": 1.29,
+        "longitude": 103.85
+      },
+      "south_africa": {
+        "latitude": -28.81,
+        "longitude": 24.99
+      },
+      "south_korea": {
+        "latitude": 39.55,
+        "longitude": 127.56
+      },
+      "thailand": {
+        "latitude": 18.67,
+        "longitude": 99.73
+      },
+      "uruguay": {
+        "latitude": -34.9,
+        "longitude": -56.19
+      },
+      "usa": {
+        "latitude": 40.71,
+        "longitude": -74.0
+      }
+    },
+    "region": {
+      "africa": {
+        "latitude": 11.5,
+        "longitude": 17.75
+      },
+      "asia": {
+        "latitude": 15.2,
+        "longitude": 89.23
+      },
+      "europe": {
+        "latitude": 51.0,
+        "longitude": 10.0
+      },
+      "north_america": {
+        "latitude": 51.0,
+        "longitude": -109.0
+      },
+      "oceania": {
+        "latitude": -24.0,
+        "longitude": 134.0
+      },
+      "south_america": {
+        "latitude": -21.0,
+        "longitude": -61.0
+      }
+    }
+  },
+  "maintainer": [
+    "Trevor Bedford",
+    "http://bedford.io/team/trevor-bedford/"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Real-time tracking of HAV virus evolution",
+  "updated": "12 Aug 2019",
+  "virus_count": 148
+}
